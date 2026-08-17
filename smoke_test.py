@@ -1,6 +1,6 @@
 """Smoke test for the two-layer cache.
 
-Run with: python test.py   (exit 0 = pass)
+Run with: .venv/bin/python smoke_test.py   (exit 0 = pass)
 
 Two sections, deliberately separate:
 
